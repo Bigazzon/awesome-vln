@@ -209,3 +209,7 @@ To add a new paper via pull request:
 - **Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation** <br>
    *Muhammad Zubair Irshad, Chih-Yao Ma, Zsolt Kira* <br>
    ICRA, 2021. [[Paper]](https://arxiv.org/abs/2104.10674) [[Code]](https://github.com/GT-RIPL/robo-vln) [[Website]](https://zubair-irshad.github.io/projects/robo-vln.html) [[Video]](https://www.youtube.com/watch?v=y16x9n_zP_4)
+   
+- **AIGeN: An Adversarial Approach for Instruction Generation in VLN** <br>
+   *Niyati Rawal, Roberto Bigazzi, Lorenzo Baraldi, Rita Cucchiara* <br>
+   CVPRW, 2024. [[Paper]](https://arxiv.org/abs/2404.10054)
